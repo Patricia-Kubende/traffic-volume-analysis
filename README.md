@@ -2,7 +2,7 @@
 
 This project explores and models traffic data from the Metro Interstate Traffic Volume dataset using Python.
 
-## 📊 Key Features
+##  Key Features
 - Time-series analysis (daily/monthly trends)
 - Weekday vs weekend traffic patterns
 - Correlation with weather, holidays, and time
